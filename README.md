@@ -9,3 +9,5 @@ Checkpoint 2 : Question Checkpoint 2 (1).py
 Checkpoint 3 : Titanic Checkpoint 3.ipynb
  
 Checkpoint 4 : House prices and sqft Checkpoint 4.ipynb
+
+Checkpoint 5 : Confusion Matrix and HOC-AUC Curve Checkpoint 5.ipynb
